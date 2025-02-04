@@ -1,0 +1,11 @@
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.deps.json
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.pdb
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.AssemblyInfoInputs.cache
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.AssemblyInfo.cs
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.csproj.CoreCompileInputs.cache
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\refint\BX.Models.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.pdb
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\ref\BX.Models.dll
