@@ -9,3 +9,7 @@ D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\
 D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\refint\BX.Models.dll
 D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.pdb
 D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\ref\BX.Models.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.runtimeconfig.json
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.csproj.AssemblyReference.cache
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.sourcelink.json
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.genruntimeconfig.cache
