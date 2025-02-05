@@ -1,6 +1,5 @@
 using BX.Models;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,11 +9,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-var connectionString = builder.Configuration.GetConnectionString("userSecretDB"); //Run this string as your secret in the local terminal
-if(connectionString.IsNullOrEmpty())
-{
-    connectionString = Environment.GetEnvironmentVariable("BuildXpertDB");
-}
+var connectionString = builder.Configuration.GetConnectionString("BuildXpertDB");
 builder.Services.AddDbContext<BuildXpertContext>(options =>
 {
     options.UseSqlServer(connectionString,
