@@ -6,6 +6,7 @@ USER $APP_UID
 WORKDIR /app
 EXPOSE 8080
 EXPOSE 8081
+ENV BuildXpertDB "Data Source=94.72.116.216\\MSSQLSERVER,1433;Database=BuildXpertTestDB;Integrated Security=false;User ID=buildxpertSA;Password=qwer1234!;TrustServerCertificate=true;"
 
 
 # This stage is used to build the service project

@@ -13,3 +13,18 @@ D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\
 D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.csproj.AssemblyReference.cache
 D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.sourcelink.json
 D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.genruntimeconfig.cache
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.deps.json
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.runtimeconfig.json
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.dll
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.pdb
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.csproj.AssemblyReference.cache
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.AssemblyInfoInputs.cache
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.AssemblyInfo.cs
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.csproj.CoreCompileInputs.cache
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.sourcelink.json
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.dll
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\refint\BX.Models.dll
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.pdb
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.genruntimeconfig.cache
+C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\ref\BX.Models.dll
