@@ -1,0 +1,29 @@
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: SQL_Server
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=password12345!
+    ports:
+      - "1433:1433"
+    networks:
+    - app-containers-network
+
+  backend:
+    build: 
+      context: .
+      dockerfile: BackEnd/Dockerfile
+    container_name: BackEnd
+    depends_on:
+    - db
+    ports:
+    - "8080:8080" 
+    networks:
+    - app-containers-network
+    # volumes:
+    #   - ./BX.Models:/src/BX.Models
+  
+networks:
+  app-containers-network:
+   driver: bridge  
