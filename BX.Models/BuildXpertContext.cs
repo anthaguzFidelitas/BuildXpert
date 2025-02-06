@@ -15,6 +15,7 @@ namespace BX.Models
         public DbSet<UserPhone> UserPhones { get; set; }
         public DbSet<Project> Projects { get; set; }
         public DbSet<ProjectState> ProjectStates { get; set; }
+        public DbSet<test> test { get; set; }
 
         public BuildXpertContext() : base()
         {
@@ -68,6 +69,5 @@ namespace BX.Models
             return await Database.CanConnectAsync();
         }
     }
-
 }
 

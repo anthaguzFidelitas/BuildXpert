@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEnd", "BackEnd\BackEnd.csproj", "{DA5B1F7E-BFDE-4AF5-BB11-5E124E183942}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackEnd", "BackEnd\BackEnd.csproj", "{DA5B1F7E-BFDE-4AF5-BB11-5E124E183942}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BX.Models", "BX.Models\BX.Models.csproj", "{6F74026B-53F8-40BA-8E34-0ECECDB74F6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BX.Models", "BX.Models\BX.Models.csproj", "{6F74026B-53F8-40BA-8E34-0ECECDB74F6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC39BBE-AA44-4D34-9309-6325EA219B5C}
 	EndGlobalSection
 EndGlobal
