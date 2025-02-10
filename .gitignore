@@ -1,2 +1,6 @@
 .vs
-.BackEnd\obj\Debug\net8.0
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
