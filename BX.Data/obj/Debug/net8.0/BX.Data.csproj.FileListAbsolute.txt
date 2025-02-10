@@ -1,0 +1,16 @@
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\bin\Debug\net8.0\BX.Data.deps.json
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\bin\Debug\net8.0\BX.Data.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\bin\Debug\net8.0\BX.Data.pdb
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\bin\Debug\net8.0\BX.Models.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\bin\Debug\net8.0\BX.Models.pdb
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\obj\Debug\net8.0\BX.Data.csproj.AssemblyReference.cache
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\obj\Debug\net8.0\BX.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\obj\Debug\net8.0\BX.Data.AssemblyInfoInputs.cache
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\obj\Debug\net8.0\BX.Data.AssemblyInfo.cs
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\obj\Debug\net8.0\BX.Data.csproj.CoreCompileInputs.cache
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\obj\Debug\net8.0\BX.Data.sourcelink.json
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\obj\Debug\net8.0\BX.Data.csproj.Up2Date
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\obj\Debug\net8.0\BX.Data.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\obj\Debug\net8.0\refint\BX.Data.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\obj\Debug\net8.0\BX.Data.pdb
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Data\obj\Debug\net8.0\ref\BX.Data.dll

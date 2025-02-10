@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,15 +8,15 @@ using System.Threading.Tasks;
 
 namespace BX.Models
 {
-    public class BuildXpertContext : DbContext, IBuildXpertContext
+    public class BuildXpertContext : IdentityDbContext<User>, IBuildXpertContext
     {
         public DbSet<User> Users { get; set; }
-        public DbSet<UserEmail> UserEmails { get; set; }
-        public DbSet<UserGoogleID> UserGoogleIDs { get; set; }
+        //public DbSet<UserEmail> UserEmails { get; set; }
+        //public DbSet<UserGoogleID> UserGoogleIDs { get; set; }
         public DbSet<UserPhone> UserPhones { get; set; }
         public DbSet<Project> Projects { get; set; }
         public DbSet<ProjectState> ProjectStates { get; set; }
-        public DbSet<test> test { get; set; }
+        //public DbSet<test> test { get; set; }
 
         public BuildXpertContext() : base()
         {
@@ -39,10 +40,10 @@ namespace BX.Models
                 .HasKey(up => new { up.UserId, up.PhoneNumber });
 
             // Configure one-to-one relationship for UserGoogleID
-            modelBuilder.Entity<User>()
-                .HasOne(u => u.UserGoogleID)
-                .WithOne(ug => ug.User)
-                .HasForeignKey<UserGoogleID>(ug => ug.UserId);
+            //modelBuilder.Entity<User>()
+            //    .HasOne(u => u.UserGoogleID)
+            //    .WithOne(ug => ug.User)
+            //    .HasForeignKey<UserGoogleID>(ug => ug.UserId);
 
             // Configure foreign key relationships for Project
             modelBuilder.Entity<Project>()

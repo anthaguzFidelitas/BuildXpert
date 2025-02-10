@@ -1,0 +1,12 @@
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Architecture\bin\Debug\net8.0\BX.Architecture.deps.json
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Architecture\bin\Debug\net8.0\BX.Architecture.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Architecture\bin\Debug\net8.0\BX.Architecture.pdb
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Architecture\obj\Debug\net8.0\BX.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Architecture\obj\Debug\net8.0\BX.Architecture.AssemblyInfoInputs.cache
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Architecture\obj\Debug\net8.0\BX.Architecture.AssemblyInfo.cs
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Architecture\obj\Debug\net8.0\BX.Architecture.csproj.CoreCompileInputs.cache
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Architecture\obj\Debug\net8.0\BX.Architecture.sourcelink.json
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Architecture\obj\Debug\net8.0\BX.Architecture.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Architecture\obj\Debug\net8.0\refint\BX.Architecture.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Architecture\obj\Debug\net8.0\BX.Architecture.pdb
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Architecture\obj\Debug\net8.0\ref\BX.Architecture.dll

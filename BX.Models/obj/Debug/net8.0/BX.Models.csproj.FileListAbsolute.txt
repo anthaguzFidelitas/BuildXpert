@@ -1,18 +1,3 @@
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.deps.json
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.dll
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.pdb
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.GeneratedMSBuildEditorConfig.editorconfig
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.AssemblyInfoInputs.cache
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.AssemblyInfo.cs
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.csproj.CoreCompileInputs.cache
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.dll
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\refint\BX.Models.dll
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.pdb
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\ref\BX.Models.dll
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.runtimeconfig.json
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.csproj.AssemblyReference.cache
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.sourcelink.json
-D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.genruntimeconfig.cache
 C:\Users\chris\Source\Repos\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.deps.json
 C:\Users\chris\Source\Repos\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.runtimeconfig.json
 C:\Users\chris\Source\Repos\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.dll
@@ -28,3 +13,18 @@ C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\refint\BX.Mode
 C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.pdb
 C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.genruntimeconfig.cache
 C:\Users\chris\Source\Repos\BuildXpert\BX.Models\obj\Debug\net8.0\ref\BX.Models.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.deps.json
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.runtimeconfig.json
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\bin\Debug\net8.0\BX.Models.pdb
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.csproj.AssemblyReference.cache
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.AssemblyInfoInputs.cache
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.AssemblyInfo.cs
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.csproj.CoreCompileInputs.cache
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.sourcelink.json
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\refint\BX.Models.dll
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.pdb
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\BX.Models.genruntimeconfig.cache
+D:\Universidad\2025 1Q\Proyecto final\BuildXpertRepository\BuildXpert\BX.Models\obj\Debug\net8.0\ref\BX.Models.dll
